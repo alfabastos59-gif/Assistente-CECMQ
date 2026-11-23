@@ -1,0 +1,6 @@
+{
+  "name": "Buiu - CodeVerse 2025",
+  "description": "Assistente virtual por voz B.U.I.U. com reconhecimento de fala, síntese de voz, Google Gemini, previsão do tempo, memória contextual e anotações.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
